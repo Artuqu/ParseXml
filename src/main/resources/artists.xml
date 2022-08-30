@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artists>
+    <artist id="1">
+        <firstname>Aleksander</firstname>
+        <lastname>Głowacki</lastname>
+        <pseudonym>Bolesław Prus</pseudonym>
+        <profession>pisarz</profession>
+        <alive>false</alive>
+    </artist>
+
+    <artist id="2">
+        <firstname>Stephen</firstname>
+        <lastname>King</lastname>
+        <pseudonym>Richard Bachman</pseudonym>
+        <profession>writer</profession>
+        <alive>true</alive>
+    </artist>
+
+    <artist id="3">
+        <firstname>Alecia</firstname>
+        <lastname>Moore</lastname>
+        <pseudonym>Pink</pseudonym>
+        <profession>singer</profession>
+        <alive>true</alive>
+    </artist>
+
+    <artist id="4">
+        <firstname>Olga</firstname>
+        <lastname>Jackowska</lastname>
+        <pseudonym>Kora</pseudonym>
+        <profession>piosenkarka</profession>
+        <alive>false</alive>
+    </artist>
+
+
+</artists>
+
+
