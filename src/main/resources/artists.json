@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "firstName": "Aleksander",
+    "lastName": "Głowacki",
+    "pseudonym": "Bolesław Prus",
+    "profession": "pisarz",
+    "active": false
+  },
+  {
+    "id": 2,
+    "firstName": "Stephen",
+    "lastName": "King",
+    "pseudonym": "Richard Bachman",
+    "profession": "writer",
+    "active": true
+  },
+  {
+    "id": 3,
+    "firstName": "Alecia",
+    "lastName": "Moore",
+    "pseudonym": "Pink",
+    "profession": "singer",
+    "active": true
+  },
+  {
+    "id": 4,
+    "firstName": "Olga",
+    "lastName": "Jackowska",
+    "pseudonym": "Kora",
+    "profession": "piosenkarka",
+    "active": false
+  }
+]
